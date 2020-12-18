@@ -1,2 +1,2 @@
-# antelidakis-Advanced-Computer-Vision-with-TensorFlow-
+# antelidakis-Advanced-Computer-Vision-with-TensorFlow
 Coursera Course
